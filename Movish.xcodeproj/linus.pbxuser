@@ -15,7 +15,7 @@
 					20,
 					341,
 					20,
-					48.16259765625,
+					48,
 					43,
 					43,
 					20,
@@ -30,8 +30,35 @@
 					PBXFileDataSource_Target_ColumnID,
 				);
 			};
+			PBXConfiguration.PBXTargetDataSource.PBXTargetDataSource = {
+				PBXFileTableDataSourceColumnSortingDirectionKey = "-1";
+				PBXFileTableDataSourceColumnSortingKey = PBXFileDataSource_Filename_ColumnID;
+				PBXFileTableDataSourceColumnWidthsKey = (
+					20,
+					301,
+					60,
+					20,
+					48.16259765625,
+					43,
+					43,
+				);
+				PBXFileTableDataSourceColumnsKey = (
+					PBXFileDataSource_FiletypeID,
+					PBXFileDataSource_Filename_ColumnID,
+					PBXTargetDataSource_PrimaryAttribute,
+					PBXFileDataSource_Built_ColumnID,
+					PBXFileDataSource_ObjectSize_ColumnID,
+					PBXFileDataSource_Errors_ColumnID,
+					PBXFileDataSource_Warnings_ColumnID,
+				);
+			};
 			PBXPerProjectTemplateStateSaveDate = 318434310;
 			PBXWorkspaceStateSaveDate = 318434310;
+		};
+		perUserProjectItems = {
+			155D624C12FAEE8D0002D180 /* PBXTextBookmark */ = 155D624C12FAEE8D0002D180 /* PBXTextBookmark */;
+			155D624D12FAEE8D0002D180 /* PBXBookmark */ = 155D624D12FAEE8D0002D180 /* PBXBookmark */;
+			155D624E12FAEE8D0002D180 /* PBXTextBookmark */ = 155D624E12FAEE8D0002D180 /* PBXTextBookmark */;
 		};
 		sourceControlManager = 155D622F12FAEC070002D180 /* Source Control */;
 		userBuildSettings = {
@@ -51,11 +78,42 @@
 		isa = PBXCodeSenseManager;
 		indexTemplatePath = "";
 	};
+	155D624C12FAEE8D0002D180 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BCD1B2011C20C5500A1697E /* PrefPane.m */;
+		name = "PrefPane.m: 7";
+		rLen = 0;
+		rLoc = 125;
+		rType = 0;
+		vrLen = 407;
+		vrLoc = 74;
+	};
+	155D624D12FAEE8D0002D180 /* PBXBookmark */ = {
+		isa = PBXBookmark;
+		fRef = 2BCD1A9111C1FBEB00A1697E /* PrefPane.rb */;
+	};
+	155D624E12FAEE8D0002D180 /* PBXTextBookmark */ = {
+		isa = PBXTextBookmark;
+		fRef = 2BCD1A9111C1FBEB00A1697E /* PrefPane.rb */;
+		name = "PrefPane.rb: 13";
+		rLen = 0;
+		rLoc = 220;
+		rType = 0;
+		vrLen = 220;
+		vrLoc = 0;
+	};
+	2BCD1A9111C1FBEB00A1697E /* PrefPane.rb */ = {
+		uiCtxt = {
+			sepNavIntBoundsRect = "{{0, 0}, {519, 245}}";
+			sepNavSelRange = "{220, 0}";
+			sepNavVisRange = "{0, 220}";
+		};
+	};
 	2BCD1B2011C20C5500A1697E /* PrefPane.m */ = {
 		uiCtxt = {
-			sepNavIntBoundsRect = "{{0, 0}, {831, 299}}";
-			sepNavSelRange = "{0, 0}";
-			sepNavVisRange = "{0, 295}";
+			sepNavIntBoundsRect = "{{0, 0}, {831, 312}}";
+			sepNavSelRange = "{125, 0}";
+			sepNavVisRange = "{74, 407}";
 		};
 	};
 	8D202CE80486D31800D8A456 /* Movish */ = {
